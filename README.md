@@ -1,4 +1,4 @@
-# Goal
+# Summary
 - A sample code of open-closed-principle
 - For the detailed explanation, visit  
 
