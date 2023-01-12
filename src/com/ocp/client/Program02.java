@@ -14,7 +14,7 @@ public class Program02 {
 	}
 
 	public static void doSomething(String id) {
-		System.out.println("Program02(Open-closed-principle)");
+		System.out.println("Program02(that follows Open-closed-principle)");
 		for (Service obj : listService) {
 			if (!id.equals(obj.identify()))
 				continue;
