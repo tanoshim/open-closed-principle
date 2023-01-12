@@ -23,7 +23,7 @@ public class Program01 {
 	}
 
 	public static void doSomething(final String id) {
-		System.out.println("Program01");
+		System.out.println("Program01(that violates Open-closed-principle");
 		if (id.equals("A")) {
 			objA.doSomething();
 		} else if (id.equals("B")) {
